@@ -1,6 +1,5 @@
-# my-project
-## i just update readme file for task
+github-final-project
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
-© 2022 XYZ, Inc.
-to
-© 2021 XYZ, Inc.
+Input: p, principal amount t, time period in years r, annual rate of interest Output simple interest = ptr
+
